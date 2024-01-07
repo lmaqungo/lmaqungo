@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Luyanda 👾 </h1>
 
-- 🔭 I’m currently working on python game development
+- 🔭 I’m currently working on **Python game development**
   
-- 🌱 I’m currently learning **Machine Learning** and **front end dev**
+- 🌱 I’m currently learning **Machine Learning** and **Front-End Development**
   
-- 💬 Ask me about Python and Java
+- 💬 Ask me about **Python** and **Java**
   
 - 📫 How to reach me: lmaqungo1@gmail.com
 
