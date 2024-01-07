@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on **Python game development**
+- 🎮 I’m currently working on **Python game development**
   
-- 🌱 I’m currently learning **Machine Learning** and **Front-End Development**
+- 🔥 I’m currently learning **Machine Learning** and **Front-End Development**
   
 - 💬 Ask me about **Python** and **Java**
   
