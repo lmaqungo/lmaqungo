@@ -10,12 +10,8 @@
   
 - 📫 How to reach me: lmaqungo1@gmail.com
 
-## Languages and Tools:
-<img  alt = "Python" width = "30px" style= "padding-right: 10px; display:inline-block" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
-<img  alt = "Java" width = "30px" style= "padding-right: 10px; display:inline-block" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-<img  alt = "PyGame" width = "30px" style= "padding-right: 10px; display:inline-block" src = "https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png"> 
-<img  alt = "HTML" width = "30px" style= "padding-right: 10px; display:inline-block" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
-<img  alt = "CSS" width = "30px" style= "padding-right: 10px; display:inline-block" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
-<img  alt = "Javascript" width = "30px" style= "padding-right: 10px; display:inline-block" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
-<img  alt = "Git" width = "30px" style= "padding-right: 10px; display:inline-block" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+## Languages:
+- Python 🐍
+- Java ☕
+- HTML, CSS, and Javascript 🌐
 
